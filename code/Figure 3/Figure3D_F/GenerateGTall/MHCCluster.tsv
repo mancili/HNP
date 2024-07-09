@@ -1,0 +1,5 @@
+#color	category	term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+blue	COMPARTMENTS	GOCC:0042824	MHC class I peptide loading complex	3	9	1.36	0.0268	"9606.ENSP00000320866,9606.ENSP00000379873,9606.ENSP00000452780"	"CALR,HLA-A,B2M"
+maroon	Reactome	HSA-983169	Class I MHC mediated antigen processing & presentation	4	366	1.22	0.0243	"9606.ENSP00000320866,9606.ENSP00000379873,9606.ENSP00000399168,9606.ENSP00000427793"	"CALR,HLA-A,HLA-B,WWP1"
+yellow	GO Process	GO:0002478	Antigen processing and presentation of exogenous peptide antigen	5	174	1.64	0.00094	"9606.ENSP00000320291,9606.ENSP00000320866,9606.ENSP00000379873,9606.ENSP00000399168,9606.ENSP00000444957"	"OSBPL1A,CALR,HLA-A,HLA-B,AP1S2"
+limegreen	GO Process	GO:0002707	Negative regulation of lymphocyte mediated immunity	3	42	2.03	0.0082	"9606.ENSP00000253814,9606.ENSP00000379873,9606.ENSP00000399168"	"NDFIP1,HLA-A,HLA-B"

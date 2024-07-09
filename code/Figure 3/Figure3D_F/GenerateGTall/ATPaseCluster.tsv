@@ -1,0 +1,4 @@
+#color	category	term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+red	COMPARTMENTS	GOCC:0005890	Sodium:potassium-exchanging ATPase complex	3	7	1.47	0.0166	"9606.ENSP00000250111,9606.ENSP00000356790,9606.ENSP00000444688"	"ATP1B2,ATP1B1,ATP1A3"
+limegreen	GO Component	GO:0033176	Proton-transporting V-type ATPase complex	4	26	1.03	0.0185	"9606.ENSP00000276390,9606.ENSP00000358777,9606.ENSP00000367697,9606.ENSP00000434729"	"ATP6V1B2,ATP6AP1,ATP6AP2,ATP6V0B"
+yellow	GO Component	GO:0016469	Proton-transporting two-sector ATPase complex	5	50	0.84	0.0233	"9606.ENSP00000276390,9606.ENSP00000358777,9606.ENSP00000367697,9606.ENSP00000389649,9606.ENSP00000434729"	"ATP6V1B2,ATP6AP1,ATP6AP2,ATP5J,ATP6V0B"
