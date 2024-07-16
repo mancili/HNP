@@ -2,7 +2,7 @@
 
 **Authors:** Manci Li; Nicole Flack; Peter A. Larsen
 
-**Corresponding author:** Dr. Manci Li
+**Corresponding author:** Manci Li
 
 Preprint available on [bioRxiv](https://doi.org/10.1101/2023.11.13.566905)
 
